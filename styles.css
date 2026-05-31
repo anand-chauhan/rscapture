@@ -1,0 +1,19 @@
+.alime-portfolio{
+    
+}
+
+.single_gallery_item {
+    width: 300px;
+}
+
+.single-portfolio-content img{
+    height: auto;
+}
+
+@media ( max-width: 765px) {
+    
+    .single_gallery_item {
+        width: 100%;
+    }
+    
+}
